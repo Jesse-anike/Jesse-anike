@@ -12,7 +12,7 @@
 
 ### Jesse Anike
 
-**Computer Engineering Student | Cybersecurity & Cloud Security Enthusiast**
+**Computer Engineering  | Cybersecurity & Cloud Security Enthusiast**
 
 I'm a Computer Engineering student building my career around **cybersecurity, cloud security, ethical hacking, software development, and technology**.
 
