@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jesse-anike/Jesse-anike/main/Github-Banner0002.png" alt="Jesse Anike Cybersecurity Profile Banner" width="100%">
+  <img src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000768c821098500bd35953dd1c&ts=497220&p=fs&cid=1&sig=73ec34fd5df1536efe0268a4326b052ca74bd2f7c02d4b0e880f1d9cdecf6a9f&v=0" alt="Jesse Anike Cybersecurity Profile Banner" width="100%">
 </p>
 
 <p align="center">
