@@ -16,7 +16,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=1100&color=39FF88&center=true&vCenter=true&multiline=false&width=1100&lines=Cloud+Security+Engineer+in+Training;Cybersecurity+Educator+%26+Mentor;Linux+%26+Networking+Enthusiast;Defensive+Security+%26+Cybersecurity;Bash+Security+Automation;AWS+%26+Cloud+Security;Identity+%26+Access+Management+(IAM%2FRBAC);Security+Monitoring+%26+Incident+Response;Building+Practical+Security+Projects+%26+Labs;Helping+Others+Learn+Cybersecurity+%26+Technology;Empowering+a+More+Secure+Digital+Africa"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=1100&color=39FF88&center=true&vCenter=true&width=1100&lines=Cloud+Security+Engineer+in+Training;Cybersecurity+Educator+%26+Mentor;Linux+%26+Networking+Enthusiast;Defensive+Security+%26+Cybersecurity;Bash+Security+Automation;AWS+%26+Cloud+Security;Identity+%26+Access+Management+(IAM%2FRBAC);Security+Monitoring+%26+Incident+Response;Building+Practical+Security+Projects+%26+Labs;Helping+Others+Learn+Cybersecurity+%26+Technology;Empowering+a+More+Secure+Digital+Africa"
     alt="Animated professional cybersecurity roles"
   />
 </p>
@@ -28,7 +28,7 @@
 <h2 align="center">Hello, I'm Jesse Anike</h2>
 
 <p align="center">
-  <strong>Koseesaw</strong>
+  <strong>Cybersecurity • Cloud Security • Linux • Networking • Security Automation</strong>
 </p>
 
 <p align="center">
@@ -41,8 +41,8 @@
 </p>
 
 <p align="center">
-  My goal is to keep learning, building, sharing knowledge, and contributing to
-  a stronger and more secure digital future for Africa.
+  My goal is to keep learning, building, sharing knowledge, and contributing
+  to a stronger and more secure digital future for Africa.
 </p>
 
 ---
@@ -94,7 +94,7 @@
 ### Operating Systems & Security Labs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,windows" alt="Operating systems and security tools" />
+  <img src="https://skillicons.dev/icons?i=kali,linux,ubuntu,windows" alt="Operating systems and security labs" />
 </p>
 
 ### Security & Networking
@@ -113,7 +113,7 @@
 ### Scripting & Automation
 
 <p>
-  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
+  <img src="https://skillicons.dev/icons?i=bash" alt="Bash scripting" />
 </p>
 
 ### Cloud & Infrastructure
@@ -239,22 +239,22 @@ Add a description of the learning resources or educational material here.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=koseesaw&show_icons=true&hide_border=true&theme=dark&rank_icon=github"
-    alt="GitHub contribution statistics"
+    src="https://github-readme-stats.vercel.app/api?username=jesse-anike&show_icons=true&hide_border=true&theme=dark&rank_icon=github"
+    alt="Jesse Anike GitHub contribution statistics"
     height="170"
   />
   &nbsp;
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=koseesaw&layout=compact&hide_border=true&theme=dark"
-    alt="Top programming languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesse-anike&layout=compact&hide_border=true&theme=dark"
+    alt="Jesse Anike top programming languages"
     height="170"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=koseesaw&theme=dark&hide_border=true"
-    alt="GitHub contribution streak"
+    src="https://streak-stats.demolab.com?user=jesse-anike&theme=dark&hide_border=true"
+    alt="Jesse Anike GitHub contribution streak"
   />
 </p>
 
@@ -311,3 +311,4 @@ Add a description of the learning resources or educational material here.
     Cybersecurity • Cloud Security • Linux • Networking • Automation • Technology Education
   </sub>
 </p>
+
